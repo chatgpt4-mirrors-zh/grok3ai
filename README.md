@@ -1,6 +1,8 @@
 # Grok3AI网页版使用指南：免费体验马斯克最新AI技术
 
-![Grok AI网页版](https://source.unsplash.com/random/800x400/?ai)
+![Grok AI网页版](https://github.com/user-attachments/assets/4fae8068-5c47-41ce-8867-f0db5cad5187)
+
+
 
 ## 目录
 
